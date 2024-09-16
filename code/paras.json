@@ -1,0 +1,18 @@
+{
+    "dataset_path" : "../data/user_3type_15295",
+    "run_name" : "dataset_fors",
+    "tensorboard_runs/" : "runs/fors",
+    "batch_size" : 32,
+    "num_layers" : 1,
+    "embed_poi" : 300,
+    "embed_cat" : 100,
+    "embed_user" : 50,
+    "embed_hour" : 20,
+    "embed_week" : 7,
+    "embed_wekn" : 15,
+    "hidden_size" : 128,
+    "//hidden_size:128、64" :"//128、64",
+    "// dropout: " :0.3,
+    "num_epochs" : 15,
+    "lr" : 0.001
+}
